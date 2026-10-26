@@ -27,5 +27,6 @@ Once figuring out a good power supply option would be using 01x06 screw terminal
 After assigning the correct footprints to all of the different components, the layout for the PCB was designed. I put all my pieces together to fit correctly on a rectangular board; I connected all the copper layers to each other. There were several issues with trying to fit all of the different layers together without overlaying on top of the other. After running it through the DRC and viewing the 3D Viewer to make sure everything was laid right, I decided the hardware design was finished. Tomorrow, I'm going to tackle trying to figure out how to design the cover to look as a ladybug, while also being able to see the LED as it lights, as is the whole point of the design. 
 
 <img width="994" height="653" alt="image" src="https://github.com/user-attachments/assets/06272c02-bd5d-41e0-8dbb-8401c25ced7e" />
+<img width="842" height="579" alt="image" src="https://github.com/user-attachments/assets/25cfc1ae-8e4b-42f2-a35e-8fa41c51b92a" />
 
 **Total time spent: 2.5 hours**
