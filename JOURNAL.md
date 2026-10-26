@@ -28,5 +28,6 @@ After assigning the correct footprints to all of the different components, the l
 
 <img width="994" height="653" alt="image" src="https://github.com/user-attachments/assets/06272c02-bd5d-41e0-8dbb-8401c25ced7e" />
 <img width="842" height="579" alt="image" src="https://github.com/user-attachments/assets/25cfc1ae-8e4b-42f2-a35e-8fa41c51b92a" />
+<img width="694" height="771" alt="image" src="https://github.com/user-attachments/assets/de25e923-4441-4e66-882f-69d994934d8c" />
 
 **Total time spent: 2.5 hours**
