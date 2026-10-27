@@ -31,3 +31,13 @@ After assigning the correct footprints to all of the different components, the l
 <img width="694" height="771" alt="image" src="https://github.com/user-attachments/assets/de25e923-4441-4e66-882f-69d994934d8c" />
 
 **Total time spent: 2.5 hours**
+
+# October 27: Started to design the casing
+
+I started designing the casing for my PCB, and the hope is to get it to look like a ladybug. Issues were arriving while trying to figure out how to get the LED visible through the casing, as well as trying to figure out how to access the pushbutton to use the circuit as a whole. I think the plan is going to be having holes in the top for visible LED light (Hopefully it looks semi-aesthetic) and a hole in the top to access the button. This is the first draft, and I think tomorrow's focus is going to be trying to make it look nicer and adding wings/potentially legs. 
+
+<img width="555" height="582" alt="Top" src="https://github.com/user-attachments/assets/560769f3-61bf-4d95-8078-4bd70169853f" />
+<img width="572" height="555" alt="Bottom" src="https://github.com/user-attachments/assets/dd8fdb87-3ff2-47bf-92d4-135fbd01b3f4" />
+<img width="525" height="572" alt="Assembly" src="https://github.com/user-attachments/assets/d7bb3236-33c9-4d5a-ae95-a72a3d6a805c" />
+
+**Total time spent: 2.5 hours** 
