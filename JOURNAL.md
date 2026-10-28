@@ -45,3 +45,6 @@ I started designing the casing for my PCB, and the hope is to get it to look lik
 # October 28: Finished Onshape Model
 
 I finished my ladybug design for my piece, and I'm quite happy with how it turned out. There were a few issues with trying to figure out how to add the diagonal wings, but eventually I figured it out using a mate connector with an offset plane. I'm pretty content with the design and how it looks, and I will not print in the colors I have in the software, but I will end up painting it these colors. I wanted to see if it would look okay if I were to add the correct colors. I think I'm going to submit this as my final design, and I think I did pretty well for a first legitamate project. 
+
+<img width="831" height="705" alt="image" src="https://github.com/user-attachments/assets/8e6a0274-6844-4c9e-99d9-980695066503" />
+<img width="814" height="727" alt="image" src="https://github.com/user-attachments/assets/e29c26c4-7a60-460d-9184-7f1cf890ec64" />
