@@ -48,3 +48,5 @@ I finished my ladybug design for my piece, and I'm quite happy with how it turne
 
 <img width="831" height="705" alt="image" src="https://github.com/user-attachments/assets/8e6a0274-6844-4c9e-99d9-980695066503" />
 <img width="814" height="727" alt="image" src="https://github.com/user-attachments/assets/e29c26c4-7a60-460d-9184-7f1cf890ec64" />
+
+**Total time spent: 2.5 hours** 
