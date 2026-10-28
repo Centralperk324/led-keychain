@@ -9,6 +9,9 @@ NE 555 Monostable Timer
 1 Pushbutton
 2 6 Term Screw Terminals
 1 9volt Battery
+
+# Link to Schematic
+
 (kicad_sch
 	(version 20260306)
 	(generator "eeschema")
