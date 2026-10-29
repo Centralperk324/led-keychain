@@ -50,3 +50,9 @@ I finished my ladybug design for my piece, and I'm quite happy with how it turne
 <img width="814" height="727" alt="image" src="https://github.com/user-attachments/assets/e29c26c4-7a60-460d-9184-7f1cf890ec64" />
 
 **Total time spent: 2.5 hours** 
+
+# October 29: Finished putting all files together
+
+Today I finalized my project and put all my files together in my repo so that they're visible. I set up my bill of materials, as well as finalized getting my KiCad and Onshape files in the correct format for submission. 
+
+**Total time spent: 1.5 hours** 
