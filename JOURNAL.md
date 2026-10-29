@@ -54,5 +54,7 @@ I finished my ladybug design for my piece, and I'm quite happy with how it turne
 # October 29: Finished putting all files together
 
 Today I finalized my project and put all my files together in my repo so that they're visible. I set up my bill of materials, as well as finalized getting my KiCad and Onshape files in the correct format for submission. 
+<img width="950" height="806" alt="image" src="https://github.com/user-attachments/assets/dde7b389-ff52-4e97-a73c-c763798cf291" />
+
 
 **Total time spent: 1.5 hours** 
