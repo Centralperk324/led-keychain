@@ -34,3 +34,13 @@ The LED lights up when the pushbutton is pressed due to using a 555 monostable t
 |---------------------------------------------------|
 |9volt Battery|      1     |9 volts | Powers Circuit| 
 |---------------------------------------------------|
+
+
+# Files for PCB and Onshape Design
+Schematic Design - 
+<img width="970" height="788" alt="image" src="https://github.com/user-attachments/assets/d2f74d29-ff3c-48a0-8357-7f5f70c0abd8" />
+PCB Design - 
+<img width="955" height="506" alt="image" src="https://github.com/user-attachments/assets/f628d265-5930-41a9-8dd0-4e33ff03a9fc" />
+Onshape Design - 
+<img width="660" height="598" alt="image" src="https://github.com/user-attachments/assets/2014aa66-1414-4c40-8d42-ad04f6b02e88" />
+
