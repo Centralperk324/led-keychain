@@ -10,3 +10,27 @@ The PCB components need to be soldered together into the board, and it will fit 
 
 # Using the Piece
 The LED lights up when the pushbutton is pressed due to using a 555 monostable timer, and the button has a cutout in the casing for easy access. 
+
+# Bill of Materials
+
+|  Component  |  Quantity  |  Unit  |  Description  | 
+|---------------------------------------------------|
+| NE555 Chip  |      1     |        |Controls Timing|
+|---------------------------------------------------|
+| Resistor    |      2     |10k ohm |Limits Current |
+|---------------------------------------------------|
+| Resistor    |      1     |470 ohm |Limits Current |
+|---------------------------------------------------|
+| Red LED     |      1     |        |Lights up      |
+|---------------------------------------------------|
+| Capacitor   |      1     | 470uF  |Timing Limitor |
+|---------------------------------------------------|
+| Capacitor   |      1     | 100nF  |Energy Storage |
+|---------------------------------------------------|
+| Pushbutton  |      1     |       |Triggers circuit|
+|---------------------------------------------------|
+|6 Term Screw |            |     |Allows positive   |
+| Terminals   |      2     | |& negative connections|
+|---------------------------------------------------|
+|9volt Battery|      1     |9 volts | Powers Circuit| 
+|---------------------------------------------------|
